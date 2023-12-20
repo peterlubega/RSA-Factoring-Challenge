@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-# is a factors challenge
+#!/usr/bin/env python
 
 import sys
 import math
